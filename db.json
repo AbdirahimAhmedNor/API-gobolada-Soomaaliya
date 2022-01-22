@@ -1,0 +1,160 @@
+{
+  "gobolada": [
+    {
+      "nambarka": 1,
+      "magaca": "Awdal",
+      "magaaloMadaxGobol": "Boorame",
+      "Degmooyinka": ["Baki", "Lug hayo", "Zay lac"]
+    },
+    {
+      "nambarka": 2,
+      "magaca": "Bakool",
+      "magaaloMadaxGobol": "Xudur",
+      "Degmooyinka": ["Ceelbarde", "Rab dhure", "Tiyeglow", "Biyooley"]
+    },
+    {
+      "nambarka": 3,
+      "magaca": "Banaadir",
+      "magaaloMadaxGobol": "Muqdishu",
+      "Degmooyinka": [
+        "Cabdi casiis",
+        "Boondheere",
+        "Xamar jajab",
+        "Xamar weyne",
+        "Hiliwaa",
+        "Hodan",
+        "Hawl wadaag",
+        "Kaaraan",
+        "Shangaani",
+        "Shibis",
+        "Waaberi",
+        "Wadajir",
+        "Warta Nabadda",
+        "Yaaqshiid",
+        "Dharkiinley"
+      ]
+    },
+    {
+      "nambarka": 4,
+      "magaca": "Bari",
+      "magaaloMadaxGobol": "Boosaso",
+      "Degmooyinka": [
+        "Caluula",
+        "BadarBeyla",
+        "Rako",
+        "Ufeyn",
+        "Waaciya",
+        "Qandala",
+        "Qardho",
+        "Xaafuun",
+        "Isku shuban"
+      ]
+    },
+    {
+      "nambarka": 5,
+      "magaca": "Baay",
+      "magaaloMadaxGobol": "Beydhabo",
+      "Degmooyinka": ["Buurxakabo", "Diinsoor", "Qansaxdheere", "Bardaale"]
+    },
+    {
+      "nambarka": 6,
+      "magaca": "Galgaduud",
+      "magaaloMadaxGobol": "Dhuusomareeb",
+      "Degmooyinka": [
+        "Cadaado",
+        "Alad",
+        "Balanbale",
+        "Ceelbuur",
+        "Ceeldheeren",
+        "Caabud waaq",
+        "Gel hareeri"
+      ]
+    },
+    {
+      "nambarka": 7,
+      "magaca": "Gedo",
+      "magaaloMadaxGobol": "Garbaharrey",
+      "Degmooyinka": ["Baardheere", "Beledxaawo", "Ceelwaaq", "Luuq"]
+    },
+    {
+      "nambarka": 8,
+      "magaca": "Hiiraan",
+      "magaaloMadaxGobol": "Beledweyne",
+      "Degmooyinka": ["Buulo barde", "Jalalaqsi", "Masax", "Matabaan"]
+    },
+    {
+      "nambarka": 9,
+      "magaca": "Togdheer",
+      "magaaloMadaxGobol": "Burco",
+      "Degmooyinka": ["Buuhoodle", "Shiikh", "Oodweyne"]
+    },
+    {
+      "nambarka": 10,
+      "magaca": "Sool",
+      "magaaloMadaxGobol": "Laas caanood",
+      "Degmooyinka": ["Caynabo", "Xudun", "Taleex"]
+    },
+    {
+      "nambarka": 11,
+      "magaca": "Waqooyi Galbeed",
+      "magaaloMadaxGobol": "Hargeysa",
+      "Degmooyinka": ["Dacar budhuq", "Ber bera", "Gebilay"]
+    },
+    {
+      "nambarka": 12,
+      "magaca": "Mudug",
+      "magaaloMadaxGobol": "Gaalkacayo",
+      "Degmooyinka": ["Galdogob", "Xara dheere", "Hobiyo", "Jiriiban"]
+    },
+    {
+      "nambarka": 13,
+      "magaca": "Shabeelada Dhexe",
+      "magaaloMadaxGobol": "Jowhar",
+      "Degmooyinka": [
+        "Balcad",
+        "Mahadaay",
+        "Cadale",
+        "Aadan yabaal",
+        "Warshiikh",
+        "Run Rugood"
+      ]
+    },
+    {
+      "nambarka": 14,
+      "magaca": "Shabeelada Hoose",
+      "magaaloMadaxGobol": "Marka",
+      "Degmooyinka": [
+        "Afgooye",
+        "Awdhiigle",
+        "Baraawe",
+        "Kuntiwaarey",
+        "Qoryooley",
+        "Sablaale"
+      ]
+    },
+    {
+      "nambarka": 15,
+      "magaca": "Sanaag",
+      "magaaloMadaxGobol": "Ceerigaabo",
+      "Degmooyinka": ["Ceel afweyn", "Laas qorey", "Badhan"]
+    },
+    {
+      "nambarka": 16,
+      "magaca": "Jubada Dhexe",
+      "magaaloMadaxGobol": "Bu'aale",
+      "Degmooyinka": ["Dujuma", "Jilib", "Saakow"]
+    },
+    {
+      "nambarka": 17,
+      "magaca": "Jubada Hoose",
+      "magaaloMadaxGobol": "Kismaanyo",
+      "Degmooyinka": ["Afmadow", "Badhaadhe", "Xagar", "Jamaame"]
+    },
+    {
+      "nambarka": 18,
+      "magaca": "Nugaal",
+      "magaaloMadaxGobol": "Garoowe",
+      "Degmooyinka": ["Dangorayo", "Ayl", "Burtinle"]
+    }
+  ]
+}
